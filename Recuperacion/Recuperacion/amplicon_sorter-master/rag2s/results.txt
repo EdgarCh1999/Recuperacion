@@ -1,0 +1,150 @@
+-----------------------------------------------------------
+amplicon_sorter version: 2023-06-19
+-----------------------------------------------------------
+- date and time = July 23, 2023, 02:52PM
+- input file = /home/kali/Downloads/amplicon_sorter-master/rag2s.fasta
+- output folder = /home/kali/Downloads/amplicon_sorter-master/rag2s
+- minlength = 300
+- maxlength = None
+- maxreads = 10000
+- used_reads = 132
+- allreads = False
+- n_processes = 1
+- similar_genes = 80.0
+- similar_species_groups = 99 (Estimated)
+- similar_species = 85.0
+- similar_consensus = 96.0
+- length_difference_consensus = 8.0
+- save_fastq = False
+- random = False
+- compare_all = False
+- alignment = False
+- ambiguous bases = False
+- histogram_only = False
+-----------------------------------------------------------
+--> rag2s_0_0.fasta contains 17 sequences (12.88% of total)
+17/19 sequences assigned in group rag2s_0.group (89.47% of group)
+--> rag2s_1_0.fasta contains 19 sequences (14.39% of total)
+19/19 sequences assigned in group rag2s_1.group (100.0% of group)
+--> rag2s_2_0.fasta contains 19 sequences (14.39% of total)
+19/19 sequences assigned in group rag2s_2.group (100.0% of group)
+--> rag2s_3_0.fasta contains 18 sequences (13.64% of total)
+18/18 sequences assigned in group rag2s_3.group (100.0% of group)
+--> rag2s_4_0.fasta contains 16 sequences (12.12% of total)
+16/17 sequences assigned in group rag2s_4.group (94.12% of group)
+--> rag2s_5_0.fasta contains 17 sequences (12.88% of total)
+17/17 sequences assigned in group rag2s_5.group (100.0% of group)
+--> rag2s_6_0.fasta contains 16 sequences (12.12% of total)
+16/16 sequences assigned in group rag2s_6.group (100.0% of group)
+7 sequences were not assigned in groups and saved in rag2s_nogroup_unique.fasta (5.3% of total)
+-----------------------------------------------------------
+amplicon_sorter version: 2023-06-19
+-----------------------------------------------------------
+- date and time = July 23, 2023, 03:07PM
+- input file = /home/kali/Downloads/amplicon_sorter-master/rag2s.fasta
+- output folder = /home/kali/Downloads/amplicon_sorter-master/rag2s
+- minlength = 300
+- maxlength = None
+- maxreads = 10000
+- used_reads = 132
+- allreads = False
+- n_processes = 1
+- similar_genes = 80.0
+- similar_species_groups = 99 (Estimated)
+- similar_species = 85.0
+- similar_consensus = 96.0
+- length_difference_consensus = 8.0
+- save_fastq = False
+- random = False
+- compare_all = False
+- alignment = True
+- ambiguous bases = False
+- histogram_only = False
+-----------------------------------------------------------
+--> rag2s_0_0.fasta contains 17 sequences (12.88% of total)
+17/19 sequences assigned in group rag2s_0.group (89.47% of group)
+--> rag2s_1_0.fasta contains 18 sequences (13.64% of total)
+18/19 sequences assigned in group rag2s_1.group (94.74% of group)
+--> rag2s_2_0.fasta contains 19 sequences (14.39% of total)
+19/19 sequences assigned in group rag2s_2.group (100.0% of group)
+--> rag2s_3_0.fasta contains 18 sequences (13.64% of total)
+18/18 sequences assigned in group rag2s_3.group (100.0% of group)
+--> rag2s_4_0.fasta contains 16 sequences (12.12% of total)
+16/17 sequences assigned in group rag2s_4.group (94.12% of group)
+--> rag2s_5_0.fasta contains 17 sequences (12.88% of total)
+17/17 sequences assigned in group rag2s_5.group (100.0% of group)
+--> rag2s_6_0.fasta contains 16 sequences (12.12% of total)
+16/16 sequences assigned in group rag2s_6.group (100.0% of group)
+7 sequences were not assigned in groups and saved in rag2s_nogroup_unique.fasta (5.3% of total)
+-----------------------------------------------------------
+amplicon_sorter version: 2023-06-19
+-----------------------------------------------------------
+- date and time = July 23, 2023, 03:19PM
+- input file = /home/kali/Downloads/amplicon_sorter-master/rag2s.fasta
+- output folder = /home/kali/Downloads/amplicon_sorter-master/rag2s
+- minlength = 300
+- maxlength = None
+- maxreads = 10000
+- used_reads = 
+- allreads = False
+- n_processes = 1
+- similar_genes = 80.0
+- similar_species_groups = Estimate
+- similar_species = 85.0
+- similar_consensus = 96.0
+- length_difference_consensus = 8.0
+- save_fastq = False
+- random = False
+- compare_all = False
+- alignment = False
+- ambiguous bases = False
+- histogram_only = True
+-----------------------------------------------------------
+-----------------------------------------------------------
+amplicon_sorter version: 2023-06-19
+-----------------------------------------------------------
+- date and time = July 23, 2023, 03:23PM
+- input file = /home/kali/Downloads/amplicon_sorter-master/rag2s.fasta
+- output folder = /home/kali/Downloads/amplicon_sorter-master/rag2s
+- minlength = 300
+- maxlength = 500
+- maxreads = 10000
+- used_reads = 
+- allreads = False
+- n_processes = 1
+- similar_genes = 80.0
+- similar_species_groups = Estimate
+- similar_species = 85.0
+- similar_consensus = 96.0
+- length_difference_consensus = 8.0
+- save_fastq = False
+- random = False
+- compare_all = False
+- alignment = False
+- ambiguous bases = False
+- histogram_only = True
+-----------------------------------------------------------
+-----------------------------------------------------------
+amplicon_sorter version: 2023-06-19
+-----------------------------------------------------------
+- date and time = July 23, 2023, 03:27PM
+- input file = /home/kali/Downloads/amplicon_sorter-master/rag2s.fasta
+- output folder = /home/kali/Downloads/amplicon_sorter-master/rag2s
+- minlength = 300
+- maxlength = 500
+- maxreads = 10000
+- used_reads = 
+- allreads = False
+- n_processes = 1
+- similar_genes = 80.0
+- similar_species_groups = Estimate
+- similar_species = 85.0
+- similar_consensus = 96.0
+- length_difference_consensus = 8.0
+- save_fastq = False
+- random = False
+- compare_all = False
+- alignment = False
+- ambiguous bases = False
+- histogram_only = True
+-----------------------------------------------------------

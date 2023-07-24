@@ -1,0 +1,24 @@
+-----------------------------------------------------------
+amplicon_sorter version: 2023-06-19
+-----------------------------------------------------------
+- date and time = July 23, 2023, 02:50PM
+- input file = /home/kali/Downloads/amplicon_sorter-master/16S.fasta
+- output folder = /home/kali/Downloads/amplicon_sorter-master/16S
+- minlength = 300
+- maxlength = None
+- maxreads = 10000
+- used_reads = 
+- allreads = False
+- n_processes = 1
+- similar_genes = 80.0
+- similar_species_groups = Estimate
+- similar_species = 85.0
+- similar_consensus = 96.0
+- length_difference_consensus = 8.0
+- save_fastq = False
+- random = False
+- compare_all = False
+- alignment = False
+- ambiguous bases = False
+- histogram_only = False
+-----------------------------------------------------------
